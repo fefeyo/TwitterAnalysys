@@ -1,0 +1,50 @@
+{
+ "name": "適当なデータ",
+ "children": [
+ {
+   "name": "20140713",
+   "children": [
+   {"name": "りんご", "size": 8258},
+   {"name": "ゴリラ", "size": 10001},
+   {"name": "ラッパ", "size": 8217},
+   {"name": "パイナップル", "size": 12555},
+   {"name": "Ruby", "size": 2324},
+   {"name": "Python", "size": 10993},
+   {
+     "name": "20140714",
+     "children": [
+     {"name": "バナナ", "size": 9354},
+     {"name": "梨", "size": 1233}
+     ]
+     },
+     {"name": "いちご", "size": 335},
+     {"name": "ごりら", "size": 383},
+     {"name": "らっぱ", "size": 874},
+     {
+       "name": "20140715",
+       "children": [
+       {"name": "珈琲", "size": 3165},
+       {"name": "紅茶", "size": 2815},
+       {"name": "緑茶", "size": 3366}
+       ]
+       },
+       {"name": "抹茶", "size": 17705},
+       {"name": "烏龍茶", "size": 1486},
+       {
+         "name": "20140716",
+         "children": [
+         {"name": "月", "size": 6367},
+         {"name": "火", "size": 1229},
+         {"name": "水", "size": 2059},
+         {"name": "木", "size": 2291}
+         ]
+         },
+         {"name": "火星", "size": 5559},
+         {"name": "水星", "size": 19118},
+         {"name": "金星", "size": 6887},
+         {"name": "木星", "size": 6557},
+         {"name": "土星", "size": 22026}
+         ]
+       }
+       ]
+     }

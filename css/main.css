@@ -1,0 +1,65 @@
+@font-face {
+    font-family: ika;
+    src: url('../fonts/ikamodoki1_0.ttf');
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: ika;
+    font-size: 30px;
+    background: #ecf0f1;
+}
+
+section,div,p,h1,h2,h3,ul,li{
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    font-size: 1.5em;
+    padding: 1.0em;
+    text-align: center;
+}
+
+#loading {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin-top: -40px;
+    margin-left: -40px;
+    display: none;
+}
+
+#search {
+    text-align: center;
+}
+
+#search_form {
+    width: 100%;
+    margin: 0.8em;
+    padding: 0.5em;
+    font-family: "メイリオ Meiryo";
+}
+
+#result {
+    display: none;
+    text-align: center;
+    margin: 20px 0;
+}
+
+#canvas {
+    fill: black;
+    stroke: #3498db;
+    stroke-width: 3px;
+    font-family: "メイリオ", "Meiryo";
+}
+
+#footer {
+    font-family: "メイリオ Meiryo";
+    font-size: 1.2em;
+    padding: 1.0em;
+    text-align: center;
+}
